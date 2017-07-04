@@ -27,8 +27,8 @@ Please use **fonts larger than size 48** for visibility at the very back of Mack
 **Avoid edge content** on your slides. While we do our best, our projection sometimes clips the edge of the deck, and we don’t want to lose words or other important content. 
 
 Some optional **blank templates** to get you started:
-* Keynote white background / black background
-* PowerPoint white background / black background
+* Keynote [white background](https://github.com/benjaminchait/tedxboulder/blob/623f9eb425812b72cd828b332b7d62ddcbcc8497/speaker-deck_requirements-blank_white_keynote.key) / [black background](https://github.com/benjaminchait/tedxboulder/blob/623f9eb425812b72cd828b332b7d62ddcbcc8497/speaker-deck_requirements-blank_black_keynote.key)
+* PowerPoint [white background](https://github.com/benjaminchait/tedxboulder/blob/8cc2108457d0b9551eef4bfae80f01c6e7ae1247/speaker-deck_requirements-blank_white_ppt.pptx) / [black background](https://github.com/benjaminchait/tedxboulder/blob/8cc2108457d0b9551eef4bfae80f01c6e7ae1247/speaker-deck_requirements-blank_black_ppt.pptx)
 
 #### The event
 
