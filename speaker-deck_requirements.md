@@ -48,3 +48,5 @@ _We’ve done this a few times…_
 * [Presentation Zen](http://www.presentationzen.com) is full of great tips.
 * Practice. Then do it again.
 * Please reach-out if you want help.
+
+Most importantly: have fun, you’ve got this! 🙌
