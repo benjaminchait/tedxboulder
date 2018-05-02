@@ -12,7 +12,7 @@ For questions or additional needs, please contact Benjamin Chait ([hello@benjami
 
 We use **Keynote** on a **Mac** to run our deck. You are welcome to craft your slides using PowerPoint or Google Slides, but please note they will be converted before the show. 
 
-Slides should be provided in **1024x768 resolution**. Bonus points for higher resolution but the same aspect ratio!
+Slides should be provided in **1920x1080 (16:9) resolution**. Bonus points for higher resolution but the same aspect ratio!
 
 Please do not include a **title slide**. We will handle this ourselves, so every speaker has a standard introduction (typically your name and Twitter handle). Likewise, you do not need a **closing slide**; after your last slide, we transition to black. 
 
