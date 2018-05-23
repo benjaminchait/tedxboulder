@@ -1,12 +1,12 @@
 #### What
 
-These are the (slide) deck requirements for TEDxBoulder 2017. 
+These are the (slide) deck requirements for TEDxBoulder 2018. 
 
 Our goal is to make this as clear and as easy as possible, so you can focus on your idea, and delighting those attending. Below, you’ll find all the details we believe are necessary to craft the digital component of your talk. Once you submit your slides, we’ll work to ensure they meet our expectations; we’ll reach-out with questions or concerns. You focus on amazing our audience, we’ll focus on the details of running the show.
 
-Please submit decks [using this Dropbox link](https://www.dropbox.com/request/pE10x7UFnEF7XlS6wKzI). _PS: it’s helpful if you include your name in the file name._ 
+Please submit decks [using this Dropbox link](https://www.dropbox.com/sh/myn5q2uk7w2jmhs/AAC29RGOp__yGOdmLJv7mw35a?dl=0). _PS: it’s helpful if you include your name in the file name._ 
 
-For questions or additional needs, please contact Benjamin Chait ([hello@benjaminchait.net](mailto:hello@benjaminchait.net)).
+For questions or additional needs, please contact Megan Milan ([meganmilan@me.com](mailto:meganmilan@me.com)).
 
 #### Technical details
 
@@ -22,7 +22,7 @@ Please do not include a **title slide**. We will handle this ourselves, so every
 
 #### Best practices
 
-Please use **fonts larger than size 48** for visibility at the very back of Macky Auditorium.
+Please use **fonts larger than size 48** for visibility at the very back of Chautauqua Auditorium.
 
 **Avoid edge content** on your slides. While we do our best, our projection sometimes clips the edge of the deck, and we don’t want to lose words or other important content. 
 
