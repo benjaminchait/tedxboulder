@@ -4,9 +4,9 @@ These are the (slide) deck requirements for TEDxBoulder 2018.
 
 Our goal is to make this as clear and as easy as possible, so you can focus on your idea, and delighting those attending. Below, you’ll find all the details we believe are necessary to craft the digital component of your talk. Once you submit your slides, we’ll work to ensure they meet our expectations; we’ll reach-out with questions or concerns. You focus on amazing our audience, we’ll focus on the details of running the show.
 
-Please submit decks [using this Dropbox link](https://www.dropbox.com/sh/myn5q2uk7w2jmhs/AAC29RGOp__yGOdmLJv7mw35a?dl=0). _PS: it’s helpful if you include your name in the file name._ 
+Please submit decks [using this Dropbox link](https://www.dropbox.com/sh/9oagoffzd3swvae/AACkOshrA840yhAkXUR4FLIja?dl=0). _PS: it’s helpful if you include your name in the file name._ 
 
-For questions or additional needs, please contact Megan Milan ([meganmilan@me.com](mailto:meganmilan@me.com)).
+For questions or additional needs, please contact Megan Milan ([megan@glider.com](mailto:megan@glider.com)).
 
 #### Technical details
 
